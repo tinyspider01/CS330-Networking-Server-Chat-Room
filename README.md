@@ -1,2 +1,3 @@
 # CS330-Networking-Server-Chat-Room
-Using Socket Programming to create a chat room. This chat room will be open to connect to chat rooms, and be able to chat with other users.
+To test the code, user should open 2 terminals. One running python server.py, and python client.py. Run server.py first, 
+then client.py. 
